@@ -1,0 +1,8 @@
+Type the following commands:
+cd
+git clone https://github.com/ssgeejr/serpentcloud.git
+cd serpentcloud
+git checkout -b zion660
+git add .
+git commit -m "creating zion660 branch"
+git push origin zion660
